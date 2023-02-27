@@ -1,5 +1,5 @@
 #Go-Collections
-Go functions to manipulate slices lists
+Go functions to manipulate slice lists
 
 ### Available Functionality
 1. Filter
